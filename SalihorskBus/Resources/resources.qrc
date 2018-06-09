@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/jquery">
+        <file alias="jquery">JQuery/jquery-3.2.1.min.js</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="checkForUpdates">Imagies/001-download-arrow.png</file>
+        <file alias="forward">Imagies/004-right-arrow.png</file>
+        <file alias="back">Imagies/005-left-arrow.png</file>
+    </qresource>
+    <qresource prefix="/splashScreen">
+        <file alias="splashScreen">Imagies/buses.png</file>
+    </qresource>
+</RCC>
